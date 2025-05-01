@@ -1,4 +1,5 @@
-
+#ifndef TARGET_DEFINED
+#define TARGET_DEFINED
 
 #ifndef USE_MAKE
 #define SKYSTARS_KM55_V2_F421
@@ -36,7 +37,7 @@
 // #define GD32SKYSTARS30
 // #define GD32SKYSTARS40
 #endif
-
+#endif
 // used to hold a port/pin in a single 16 bit integer
 #define GPIO_PORT_PIN(portnum, pinnum) ((portnum)<<8|(pinnum))
 
