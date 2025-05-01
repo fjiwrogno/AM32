@@ -35,7 +35,7 @@ jobs:
         run: |
           if [ "$RUNNER_OS" == "Linux" ]; then
             make arm_sdk_install
-            make TARGET=SKYSTARS_KM55_V2_F421
+            make SKYSTARS_KM55_V2_F421
           elif [ "$RUNNER_OS" == "Windows" ]; then
             make arm_sdk_install
             tools/windows/make/bin/make
