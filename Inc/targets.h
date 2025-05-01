@@ -1,7 +1,7 @@
 
-
-#ifndef USE_MAKE
 #define SKYSTARS_KM55_V2_F421
+#ifndef USE_MAKE
+
 // #define F031_DEV
 // #define FD6288_F051
 // #define IFLIGHT
