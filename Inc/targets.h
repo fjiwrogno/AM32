@@ -2,7 +2,7 @@
 #define TARGET_DEFINED
 
 #ifndef USE_MAKE
-#define SKYSTARS_KM55_V2_F421
+//#define SKYSTARS_KM55_V2_F421
 // #define F031_DEV
 // #define FD6288_F051
 // #define IFLIGHT
@@ -29,7 +29,7 @@
 // #define GEN_64K_G071
 // define  DT120_G071
 
-// #define WRAITH32_F421
+#define WRAITH32_F421
 // #define GD32DEV
 // #define GD32DEV_B
 // #define GD32SKYSTARS20
