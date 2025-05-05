@@ -27,7 +27,7 @@
 // #define GEN_64K_G071
 // define  DT120_G071
 
-// #define WRAITH32_F421
+#define WRAITH32_F421
 // #define GD32DEV
 // #define GD32DEV_B
 // #define GD32SKYSTARS20
